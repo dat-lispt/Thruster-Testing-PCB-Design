@@ -1,5 +1,7 @@
 # Measuring Voltage, Current and Force of thrusters underwater
 
+**For use**: Download only Thruster_testingV2.f3z, file is made for Fusion 360 software
+
 Components: 
 + $${\color{red} Using \space the \space microcontroller \space ESP32-P4-PICO}$$
 + 2x HX711 Load Cell Amplifiers
